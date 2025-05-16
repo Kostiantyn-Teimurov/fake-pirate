@@ -1,3 +1,17 @@
 {
-  "name": "Boris"
+  "firstName": "Boris",
+  "secondName": "Berezovsky",
+  "color": "red",
+  "age": 2,
+  "isHappy": true,
+  "weight": 6,
+  "favFoods": [
+    "fish",
+    "sousages",
+    "fuagra"
+  ],
+  "favDrinks": [
+    "milk",
+    "beer"
+  ]
 }
